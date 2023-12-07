@@ -1,2 +1,2 @@
 # react
-This is my firts repository 
+This is my firt git  repository 
