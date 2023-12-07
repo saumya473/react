@@ -1,2 +1,2 @@
 # react
-This is my firt git  repository 
+This is my first git  repository 
